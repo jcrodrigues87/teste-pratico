@@ -21,6 +21,7 @@ Você deve desenvolver uma pequena aplicação WEB utilizando a linguagem de pro
 * Campo Endereço de Entrega deve ser preenchido automaticamente ao informar o CEP de Entrega;
 * Exemplo da página de Registro de Vendas:
 
+´´´´
 | Número da Venda | 000001
 |   Data da Venda | 19/01/2020
 |         Cliente | Cliente A
@@ -36,6 +37,7 @@ Você deve desenvolver uma pequena aplicação WEB utilizando a linguagem de pro
 |----------|-------------|--------------|--------|------------|-------|
 
 |Total| 103,00
+´´´´
 
 * Exemplo da página com a Lista das Vendas:
 
