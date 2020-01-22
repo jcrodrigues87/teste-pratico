@@ -5,6 +5,7 @@ O objetivo deste teste é conhecer suas habilidades em:
 * Desenvolvimento Web (Tecnologias, Linguagens de programação, Frameworks, Banco de Dados, HTML, CSS e JavaScript);
 * Entendimento e análise dos requisitos;
 * Modelagem de banco de dados;
+* Integração com WebServices;
 
 Você deve desenvolver uma pequena aplicação WEB utilizando a linguagem de programação, framework(s) e banco de dados relacional de sua preferência.
 
