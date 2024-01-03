@@ -59,7 +59,7 @@ Você deve desenvolver uma pequena aplicação WEB utilizando a linguagem de pro
 * Nesta aplicação é necessário desenvolver apenas duas páginas, uma para listar as vendas cadastradas e outra para realizar o cadastro das vendas;
 * Não é necessário implementar o cadastro de produtos e clientes, somente suas tabelas no banco de dados. Popule essas diretamente no banco de dados;
 * O cadastro de produtos deve conter: código e descrição;
-* O cadastro de clientes deve conter: código nome e cnpj; 
+* O cadastro de clientes deve conter: código, nome e cnpj; 
 * O banco de dados não pode permitir 2 produtos com o mesmo código;
 * O campo Número da Venda deve ser sequencial e gerado automaticamente;
 * O campo Número do Item deve ser sequencial e gerado automaticamente;
@@ -70,6 +70,7 @@ Você deve desenvolver uma pequena aplicação WEB utilizando a linguagem de pro
 
 ## Diferenciais
 
-* Testes unitários para qualquer parte do sistema;
-* Comentários claros no código;
-* Procure fazer vários commits com mensagens claras;
+* Testes unitários ou de integração ✅;
+* Executar a aplicação em containers Docker com apenas um comando 💓;
+* Código que segue boas práticas (Clean Code) 🤩;
+* Commits padronizados e com mensagens claras ⭐;
